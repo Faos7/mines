@@ -1,0 +1,30 @@
+#cells-frame .glyphicon {
+    margin: 0.3em;
+    font-size: 1.75em;
+}
+
+#cells-frame{
+    width: 244px;
+    float: inherit;
+    background-color: #eee;
+    border: 2px solid #555;
+    border-radius: 7%;
+}
+
+
+#cells-frame .well {
+    height: 244px;
+}
+
+.cell{
+    display: inline-block;
+    margin: 0.01em;
+    background-color: lightgray;
+    width: 26px;
+    height: 26px;
+    text-align: center;
+    font-size: 22px;
+    border-radius: 50%;
+    border: 2px solid #777;
+    cursor: pointer;
+}

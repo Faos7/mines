@@ -1,0 +1,11 @@
+{
+  "name": "mines",
+  "version": "1.0.0",
+  "description": "Programm Ingenery",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodejs server.js"
+  },
+  "author": "Faos7",
+  "license": "MIT"
+}
